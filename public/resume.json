@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Alina Spahiu",
+    "occupation": "Student @ Faculty of Computer Science, Prizren, Kosova",
+    "description": "Very hard worker",
+    "image": "./images/cvpic.jpg",
+    "bio": "My name is Tanila Yvette. I am a former accountant but now a fullstack web developer. I am very hardworking, curious and goal-oriented. When I am not coding I am out there playing basketball.",
+    "contactmessage": "For more information, contact me at",
+    "email": "nchombuayvta@gmail.com",
+    "phone": "+46760726885",
+    "address": {
+      "street": "Språkgränd 29",
+      "city": "Umeå",
+      "state": "Västerbotten, Sweden",
+      "zip": "90733"
+    },
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tanila.yvette",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yvette-tanila-a8708b20/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/evebabe2006/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yvette809",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am skillful, ability to learn new technologies , flexible and can adapt in any environment",
+    "education": [
+      {
+        "school": "Strive School",
+        "degree": "Diploma fullstack web development",
+        "graduated": "ongoing",
+        "description": "programming"
+      },
+      {
+        "school": "Umeå University",
+        "degree": "Msc. Business Development and Internationalisation",
+        "graduated": "2012",
+        "description": "Business"
+      },
+      {
+        "school": "University of Buea",
+        "degree": "Bsc. Accounting",
+        "graduated": "2007",
+        "description": "Accounting/Business"
+      }
+    ],
+    "work": [
+      {
+        "company": "NXT Tax Consultancy",
+        "title": "Accountant",
+        "years": "June 2014 - Aug 2019",
+        "description": "Tax computation and financial statement preparation"
+      },
+      {
+        "company": "Mukete Estates ltd",
+        "title": "Accountant",
+        "years": "May 2007- Jan 2010",
+        "description": "Payroll Accounting, Account receivables, Budgeting"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "70%"
+      },
+
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "93%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+
+      {
+        "name": "Git",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WSK webpage",
+        "category": "WSK webpage built with React and node.js ",
+        "image": "./images/wakanda.jpg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      },
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      },
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      },
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yvette is a very dedicated person. When she sets her mind on something, she achieves!",
+        "user": "Ojong Roland"
+      },
+      {
+        "text": "She has always had a strong passion in mathematics an logic. I think she will make a very good programmer",
+        "user": "Tanila Adeline"
+      }
+    ]
+  }
+}
