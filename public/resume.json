@@ -1,9 +1,9 @@
 {
   "main": {
-    "name": "Alina Spahiu",
-    "occupation": "Student @ Faculty of Computer Science, Prizren, Kosova",
-    "description": "Very hard worker",
-    "image": "./images/cvpic.jpg",
+    "name": "Tanila Yvette",
+    "occupation": "Fullstack Web DevelopmentStudent @ Strive School",
+    "description": "Curious and motivated",
+    "image": "cvpic.jpg",
     "bio": "My name is Tanila Yvette. I am a former accountant but now a fullstack web developer. I am very hardworking, curious and goal-oriented. When I am not coding I am out there playing basketball.",
     "contactmessage": "For more information, contact me at",
     "email": "nchombuayvta@gmail.com",
@@ -108,7 +108,7 @@
       {
         "title": "WSK webpage",
         "category": "WSK webpage built with React and node.js ",
-        "image": "./images/wakanda.jpg",
+        "image": "wakanda.jpg",
         "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
       },
       {
