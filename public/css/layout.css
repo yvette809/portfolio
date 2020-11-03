@@ -30,7 +30,7 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
+   height: 600px;
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/12.jpg) no-repeat top center;
@@ -204,7 +204,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+ 
 }
 #about .profile-pic {
    position: relative;

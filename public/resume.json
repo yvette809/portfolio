@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Tanila Yvette",
-    "occupation": "Fullstack Web DevelopmentStudent @ Strive School",
+    "occupation": "Fullstack Web Development Student @ Strive School",
     "description": "Focused and motivated",
-    "image": "cvpic.jpg",
+    "image": "./cvpic.jpg",
     "bio": "My name is Tanila Yvette. I am a former accountant but now a fullstack web developer. I am very hardworking, curious and goal-oriented. When I am not coding I am out there playing basketball.",
     "contactmessage": "For more information, contact me at",
     "email": "nchombuayvta@gmail.com",
@@ -11,7 +11,7 @@
     "address": {
       "street": "Språkgränd 29",
       "city": "Umeå",
-      "state": "Västerbotten, Sweden",
+      "country": " Sweden",
       "zip": "90733"
     },
 
@@ -44,7 +44,7 @@
       {
         "school": "Strive School",
         "degree": "Diploma fullstack web development",
-        "graduated": "ongoing",
+        "graduated": "2020",
         "description": "programming"
       },
       {
@@ -109,25 +109,25 @@
         "title": "WSK webpage",
         "category": "WSK webpage built with React and node.js ",
         "image": "wakanda.jpg",
-        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+        "url": "https://wakanda-client.herokuapp.com/"
+      },
+      {
+        "title": "electroshop",
+        "category": "MERN stack ",
+        "image": "coding.jpeg",
+        "url": "https://wakanda-client.herokuapp.com/"
       },
       {
         "title": "Linkedin Front-end Clone",
         "category": "Linkedin Clone built with Reactjs ",
         "image": "coding.jpeg",
-        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+        "url": "https://wakanda-client.herokuapp.com/"
       },
       {
         "title": "Linkedin Front-end Clone",
         "category": "Linkedin Clone built with Reactjs ",
         "image": "coding.jpeg",
-        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
-      },
-      {
-        "title": "Linkedin Front-end Clone",
-        "category": "Linkedin Clone built with Reactjs ",
-        "image": "coding.jpeg",
-        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+        "url": "https://wakanda-client.herokuapp.com/"
       }
     ]
   },
