@@ -35,10 +35,10 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a <span>{occupation}</span>. </h3>
-            <h4>I am very {description}.</h4>
+            <h3> <span>{occupation}</span>. </h3>
+            {/* <h4>I am very {description}.</h4> */}
             <hr />
-            <ul className="social">
+            <ul className="social" style={{marginTop: "400px"}}>
                {networks}
             </ul>
          </div>
